@@ -21,7 +21,7 @@ redirect_from:
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018</div>
 <div class='paper-box-text' markdown="1">
 [An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]**Haobo Chen**, Gholamali Aminian, Yuheng Bu
 
