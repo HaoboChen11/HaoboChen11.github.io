@@ -16,12 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+Lorem ipsum dolor sit amet, con
 
 
 
 # 📝 Publications 
-[An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]**Haobo Chen**, Gholamali Aminian, Yuheng Bu, **CVPR 2020**
+[An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]
+**Haobo Chen**, Gholamali Aminian, Yuheng Bu, **CVPR 2020**
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
