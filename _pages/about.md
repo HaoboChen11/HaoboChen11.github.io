@@ -23,6 +23,7 @@ Hi, I am the second year
 # 📝 Publications 
 [An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]
 **Haobo Chen**, Gholamali Aminian, Yuheng Bu, **Preprint**
+</div>
 [Gibbs-Based Information Criteria and the Over-Parameterized Regime]
 **Haobo Chen**, G. W. Wornell, Yuheng Bu, **International Conference on Artificial Intelligence and Statistics (AISTATS)** (acceptance rate: 28%)
 
