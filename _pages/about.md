@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a second-year PhD student at the University of Florida in the Department of Electrical and Computer Engineering. Prior to this, I earned my B.S. degree from Shandong University in 2019.
+I am a second-year PhD student at the University of Florida in the Department of Electrical and Computer Engineering, and I am honored to work with Dr. Bu as my advisor. He is very talented and has been a great source of inspiration for me. Prior to this, I earned my B.S. degree from Shandong University in 2019.
 
 My research focuses on the intersection of machine learning and information theory. I am particularly interested in exploring how information-theoretic principles can be connected to the generalization and fairness of various neural network models.
 
