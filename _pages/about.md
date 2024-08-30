@@ -23,7 +23,7 @@ My research focuses on the intersection of machine learning and information theo
 
 
 # 📝 Publications 
-\href{https://sia.mit.edu/wp-content/uploads/2024/07/2024-chen-wornell-bu-aistats.pdf}[An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]
+[An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]{https://sia.mit.edu/wp-content/uploads/2024/07/2024-chen-wornell-bu-aistats.pdf}
 **Haobo Chen**, Gholamali Aminian, Yuheng Bu, **Preprint**
 
 [Gibbs-Based Information Criteria and the Over-Parameterized Regime]
