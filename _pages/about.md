@@ -40,6 +40,7 @@ Firas Laakom, **Haobo Chen**, Jürgen Schmidhuber, Yuheng Bu, **International Co
 -  2018.08, First Prize (15/600), 13th National College Students “Enzhipu Cup” Intelligent Car Competition 
 
 # 📖 Educations
-- *2021.06 -(now)*, University of Flroida, Florida
-- *2015.09 - 2019.06*, Shandong University, Shandong
+- *2023- now*, in CS at the University of Santa Barbara, California
+- *2021.06 -2023*, M.S. in ECE at the University of FloridaUniversity of Flroida, Florida
+- *2015.09 - 2019.06*, Barcholor. in Shandong University, Shandong
 
