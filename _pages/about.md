@@ -20,14 +20,19 @@ I am a second-year PhD student at the University of Florida in the Department of
 
 My research focuses on the intersection of machine learning and information theory. I am particularly interested in exploring how information-theoretic principles can be connected to the generalization and fairness of various neural network models.
 
+My current work focuses on quantifying generative models’ behavior in distributional space, especially diffusion models, and on the thinking time of LLMs. If you’re interested, please contact me at haobo@ucsb.edu.
+
 
 
 # 📝 Publications 
+[Fairness Overfitting in Machine Learning: An Information-Theoretic Perspective](https://arxiv.org/abs/2506.07861)
+Firas Laakom, **Haobo Chen**, Jürgen Schmidhuber, Yuheng Bu, **International Conference on Machine Learning (ICML) 2025. (acceptance rate: 29%)**
+
 [An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels](https://arxiv.org/pdf/2407.13436)
-**Haobo Chen**, Gholamali Aminian, Yuheng Bu, **Preprint**
+**Haobo Chen**, Gholamali Aminian, Yuheng Bu, **Allerton Conference on Communication, Control, and Computing (Allerton) 2024**
 
 [Gibbs-Based Information Criteria and the Over-Parameterized Regime](https://sia.mit.edu/wp-content/uploads/2024/07/2024-chen-wornell-bu-aistats.pdf)
-**Haobo Chen**, G. W. Wornell, Yuheng Bu, **International Conference on Artificial Intelligence and Statistics (AISTATS) (acceptance rate: 28%)** 
+**Haobo Chen**, G. W. Wornell, Yuheng Bu, **International Conference on Artificial Intelligence and Statistics (AISTATS) 2024 (acceptance rate: 28%)** 
 
 
 
